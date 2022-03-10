@@ -23,7 +23,6 @@ looking for projects that both gain experience and the maximum knowledge
   <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gusta-pic" height="150" style="border-radius:150px;" src="https://share-cdn.picrew.me/shareImg/org/202203/94097_hi8kbH3J.png">
 </div>
   
   ## 
