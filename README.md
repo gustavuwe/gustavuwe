@@ -6,6 +6,10 @@
 ### 🔭 Objectives
 Currently I do it for fun, but I intend to work in this profession in the future
 
+### 💻 I’m looking for
+looking for projects that both gain experience and the maximum knowledge
+
+
 <div align="center">
   <a href="https://github.com/gustavuwe">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gustavuwe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
