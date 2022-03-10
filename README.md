@@ -1,7 +1,10 @@
 
 
 
-### Hi there 👋
+## Hi 👋, I'm Gustav Uwe, a developer aiming to acquire maximum knowledge!
+
+### 🔭 Objectives
+Currently I do it for fun, but I intend to work in this profession in the future
 
 <div align="center">
   <a href="https://github.com/gustavuwe">
@@ -18,7 +21,8 @@
   <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Gusta-pic" height="150" style="border-radius:150px;" src="https://share-cdn.picrew.me/shareImg/org/202203/94097_hi8kbH3J.png">
 </div>
-<br>
+  
+  ## 
   <div>
     <a href="https://instagram.com/gustavuwe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href = "mailto:gustavuwe.123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
