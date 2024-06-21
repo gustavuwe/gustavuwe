@@ -4,7 +4,7 @@
 ## Hi 👋, I'm Gustav Uwe, a developer aiming to acquire maximum knowledge!
 
 ### 🔭 Objectives
-Currently I do it for fun, but I intend to work in this profession in the future
+Grow as a person and as a developer, building innovative and efficient applications
 
 ### 💻 I’m looking for
 looking for projects that both gain experience and the maximum knowledge
